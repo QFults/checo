@@ -1,0 +1,187 @@
+[
+  {
+    "_id": 0,
+    "text": "Abundance is the dullest desire",
+    "description": "Grants infinite ammo supply"
+  },
+  {
+    "_id": 0,
+    "text": "A simple life, a beautiful death",
+    "description": "Grants a loadout of basic weapons"
+  },
+  {
+    "_id": 0,
+    "text": "Greed is American Virtue",
+    "description": "Adds Pump-Action Shotgun, Bolt Action Rifle, Mauser Pistol, and Semi-Automatic Pistol weapons to your inventory"
+  },
+  {
+    "_id": 0,
+    "text": "Death is silence",
+    "description": "Grants a loadout of stealth weaponry (Machete, Tomahawks, and Knives)"
+  },
+  {
+    "_id": 0,
+    "text": "History is written by fools",
+    "description": "Grants a loadout of Gunslinger weapons (Off-hand holster, Double Action revolver, Schofield Revolver, Double Barreled Shotgun)"
+  },
+  {
+    "_id": 0,
+    "text": "You long for sigh and see nothing",
+    "description": "Reveals entire map"
+  },
+  {
+    "_id": 0,
+    "text": "Greed is now a virtue",
+    "description": "Gives you $500"
+  },
+  {
+    "_id": 0,
+    "text": "Vanity. ALl is vanity",
+    "description": "Unlocks all outfits in Arthur's wardrobe"
+  },
+  {
+    "_id": 0,
+    "text": "Eat of knowledge",
+    "description": "Learn all crafting recipes"
+  },
+  {
+    "_id": 0,
+    "text": "Share",
+    "description": "Unlockas all ledger upgrades and increases max supply levels"
+  },
+  {
+    "_id": 0,
+    "text": "Virtue Unearned is not virtue",
+    "description": "Raises honor rating"
+  },
+  {
+    "_id": 0,
+    "text": "You revel in your disgrace, I see",
+    "description": "Sets honor to the minimum amount"
+  },
+  {
+    "_id": 0,
+    "text": "Balance. All is balance",
+    "description": "Resets your honor meter to neutral"
+  },
+  {
+    "_id": 0,
+    "text": "Be greedy only for foresight",
+    "description": "Unlimited Deadeye reserve"
+  },
+  {
+    "_id": 0,
+    "text": "The lucky be strong evermore",
+    "description": "Unlimited stamina reserve"
+  },
+  {
+    "_id": 0,
+    "text": "Guide me better",
+    "description": "Allows you to auto-paint targets in Deadeye"
+  },
+  {
+    "_id": 0,
+    "text": "Make me better",
+    "description": "Deadeye skill rank 2 (mark targets)"
+  },
+  {
+    "_id": 0,
+    "text": "I shall be better",
+    "description": "Deadeye skill rank 3 (stay in Deadeye after firing)"
+  },
+  {
+    "_id": 0,
+    "text": "I still seek more",
+    "description": "Deadeye skill rank 4 (highlight fatal areas)"
+  },
+  {
+    "_id": 0,
+    "text": "I seek and I find",
+    "description": "Deadeye skill rank 5 (highlight critical hit areas)"
+  },
+  {
+    "_id": 0,
+    "text": "You flourish before you die",
+    "description": "Refills all bars for health, stamina, and dead eye"
+  },
+  {
+    "_id": 0,
+    "text": "Seek all the bounty of this place",
+    "description": "Increases stat bars"
+  },
+  {
+    "_id": 0,
+    "text": "You seek more than the world offers",
+    "description": "Refill and fortify all your bars"
+  },
+  {
+    "_id": 0,
+    "text": "Better than my dog",
+    "description": "You can call a horse from any distance"
+  },
+  {
+    "_id": 0,
+    "text": "A fool on command",
+    "description": "Instantly makes you drunk"
+  },
+  {
+    "_id": 0,
+    "text": "Run! Run! Run!",
+    "description": "Spawns a race horse"
+  },
+  {
+    "_id": 0,
+    "text": "My kingdom is a horse",
+    "description": "Increases your bonding with all owned horses"
+  },
+  {
+    "_id": 0,
+    "text": "You are a beast built for war",
+    "description": "Spawns a war horse"
+  },
+  {
+    "_id": 0,
+    "text": "The best of the old ways",
+    "description": "Spawns a Stagecoach"
+  },
+  {
+    "_id": 0,
+    "text": "Keep your dreams simple",
+    "description": "Spawns a wagon with one horse"
+  },
+  {
+    "_id": 0,
+    "text": "Would you be happier as a clown?",
+    "description": "Spawns a circus wagon"
+  },
+  {
+    "_id": 0,
+    "text": "You want more than you have",
+    "description": "Spawns an Arabian horse"
+  },
+  {
+    "_id": 0,
+    "text": "You want something new",
+    "description": "Spawns a random horse"
+  },
+  {
+    "_id": 0,
+    "text": "Keep your dreams light",
+    "description": "Spawns a horse with a cart"
+  },
+  {
+    "_id": 0,
+    "text": "You want punishment",
+    "description": "Increase wanted rating"
+  },
+  {
+    "_id": 0,
+    "text": "You want freedom",
+    "description": "Decrease wanted rating"
+  },
+  {
+    "_id": 0,
+    "text": "You want everyone to go away",
+    "description": "Eliminates all wanted ratings and bounties"
+  }
+]
